@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Page Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+    <script src="main.js"></script>
+</head>
+<body>
+    <h1>Jose Messias da Silva</h1>
+	<!--Objetivos-->
+	<h2>Objetivos</h2>
+	<hr>
+	<p>Contruir uma carreira de sucesso</p>
+	<!--Formacao academica-->
+	<h2>Formação academica</h2>
+	<hr>
+	<ul>
+         <li>Ensino superior completo em Administração de empresas pela Faculdade Anhanguera</li>
+		 <li>Cursando 3º Semestre de Análise e Desenvolvimento de Sistemas pelo IFSP</li>
+	</ul>	 
+    <!--Experiencias Profissionais-->
+	<h2>Experiencias Profissionais</h2>
+	<hr>
+	<!--ultima empresa-->
+	<h3>TUMKUS E TUNCKUS</h3>
+	<ul>
+         <li>Atender clientes</li>
+		 <li>Receber pagamentos</li>
+		 <li>Conferir mercadorias</li>
+		 <!--link para acessar o site da empresa-->
+		 <a href="https://www.tumkus.com.br/">site da empresa</a>
+	</ul>
+	<!--penultima empresa-->
+	<h3>FUNDACAO ABC</h3>
+	<ul>
+         <li>Rotinas administrativas</li>
+		 <li>Elaborar planilhas</li>
+		 <li>Controlar envio e recebimento de correspondencias</li>
+		 <!--link para acessar o site da empresa-->
+		 <a href="http://www.fmabc.br">site da empresa</a>
+	</ul>
+	<!--Idiomas-->
+	<h2>idiomas</h2>
+	<hr>
+	<ul>
+         <li>Inglês</li>
+			<ul>
+				<li>Ótima leitura</li>
+				<li>Boa escrita</li>
+				<li>Razoável pronúncia</li>
+			</ul>
+		<li>Francês</li>
+			<ul>
+				<li>Boa leitura</li>
+				<li>Boa escrita</li>
+				<li>Razoável pronúncia</li>
+			</ul>					
+	</ul>	
+	<!--Qualificações-->
+	<h2>Qualificações</h2>
+	<hr>
+	<ul>
+         <li>Informática avançada (Windows, WOrd, Excel e Power Point)</li>
+	</ul>	
+</body>
+</html>
